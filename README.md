@@ -30,3 +30,4 @@
 ### 1주차
 
 - [1일: HTTP와 node:http 첫 서버](week01/day1/NOTES.md)
+- [2일: Fastify로 옮기기](week01/day2/NOTES.md)
