@@ -32,3 +32,4 @@
 - [1일: HTTP와 node:http 첫 서버](week01/day1/NOTES.md)
 - [2일: Fastify로 옮기기](week01/day2/NOTES.md)
 - [3일: TypeScript와 라우트 파일 나누기](week01/day3/NOTES.md)
+- [4일: REST 설계와 todos CRUD](week01/day4/NOTES.md)
